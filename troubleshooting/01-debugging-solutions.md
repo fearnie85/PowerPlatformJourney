@@ -373,7 +373,7 @@ Example:
 
 ### App Telemetry
 ```
-Use TraceEvent to log custom events:
+Use Trace to log custom events:
   Trace(
     "User action",
     TraceSeverity.Information,
